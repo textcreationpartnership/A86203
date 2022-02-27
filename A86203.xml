@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Queens Majesties letter to the Parliament of England, concerning her dread soveraign Lord the King, and her proposals and desires, touching his royall person. With the resolution of the Parlilment[sic] concerning the said letter. Also, a letter from Holland, concerning the King, Parliament, and Army, shewing what will befall this nation, if his Majesty be deposed, and a new King and government erected and established. Likewise, the several reasons of the peers of England, concerning their differing from the commission for tryall of the King; and the resolution of the House of Commons, to proceed of themselves by way of charge.</title>
+            <author>Henrietta Maria, Queen, consort of Charles I, King of England, 1609-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86203</idno>
+            <idno type="STC">Wing H1461</idno>
+            <idno type="STC">Thomason E537_9</idno>
+            <idno type="STC">ESTC R205360</idno>
+            <idno type="EEBO-CITATION">99864762</idno>
+            <idno type="PROQUEST">99864762</idno>
+            <idno type="VID">164851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164851)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E537[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Queens Majesties letter to the Parliament of England, concerning her dread soveraign Lord the King, and her proposals and desires, touching his royall person. With the resolution of the Parlilment[sic] concerning the said letter. Also, a letter from Holland, concerning the King, Parliament, and Army, shewing what will befall this nation, if his Majesty be deposed, and a new King and government erected and established. Likewise, the several reasons of the peers of England, concerning their differing from the commission for tryall of the King; and the resolution of the House of Commons, to proceed of themselves by way of charge.</title>
+                  <author>Henrietta Maria, Queen, consort of Charles I, King of England, 1609-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. VVhite, and are to be sold in the Old-Bayley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan. 5th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, --  1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164851:1" rendition="simple:additions"/>
+            <p>The Queens Majeſties LETTER To the Parliament of ENGLAND, <hi>CONCERNING</hi> Her Dread Soveraign Lord the <hi>KING,</hi> and Her Propo<g ref="char:EOLhyphen"/>ſals and Deſires, touching His Royall Perſon. With the Reſolution of the Parlilment concer<g ref="char:EOLhyphen"/>ning the ſaid Letter.</p>
+            <p>Alſo, a Letter from <hi>Holland,</hi> concerning the <hi>King, Parlia<g ref="char:EOLhyphen"/>ment,</hi> and <hi>Army;</hi> ſhewing what will befall this <hi>Nation,</hi> if His Majeſty be depoſed, and a new <hi>King</hi> and <hi>Government</hi> erected and eſtabliſhed.</p>
+            <p>Likewiſe, the ſeveral Reaſons of the Peers of <hi>England,</hi> con<g ref="char:EOLhyphen"/>cerning their diſſenting from the Commiſſion for tryall of the <hi>King;</hi> and the Reſolution of the Houſe of <hi>Commons,</hi> to proceed of them<g ref="char:EOLhyphen"/>ſelves by way of Charge.</p>
+            <figure>
+               <head>M R</head>
+               <figDesc>portrait of Queen Mary</figDesc>
+            </figure>
+            <p>Printed for <hi>L. VVhite,</hi> and are to be ſold in the Old-Bayley.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164851:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:164851:2"/>
+            <head>THE DECLARATION OF THE Presbyterians Concerning the <hi>Kings Majeſty,</hi> and their Deſires touching the preſervation of his Royall perſon, in relation to his comming to tryall.</head>
+            <p>AFter mature deliberation upon the proceedings of the Lord Generall Fairfax, and the General councel of Officers, in relation to the eſtabliſhing of a firm and laſting peace within this bleeding, to<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne, and tottering kingdom, and the erecting of a pure and ſound Government according to the Law of Nature, and the fundamental laws of this Realm, and after ſeveral conferences and diſputa<g ref="char:EOLhyphen"/>tions in order thereunto, divers of the Presbyterian party
+<pb n="2" facs="tcp:164851:3"/>
+frequented to Weſtminſter, and other places, where they had ſeverall diſputations and conferences with the Officers, and other members of the Army; and after ſome debate upon the Foundation, of the grounds and principles of the <hi>Agreement of the People,</hi> the Presbyterians declared a great diſlike thereof, remonſtrating, That it was not founded upon a firm Rock; to which objections, ſeverall anſwers were made, for cleering ſuch ſcruples and cautions, as ſeemed dif<g ref="char:EOLhyphen"/>ficult to many; And as for the perſon of the King, they further declared that notwithſtanding the preſent Ordnance of Attainder againſt his Maj. yet they conceived it requiſite and lawfull, that the prayers of the Miniſtery bee ſtill conti<g ref="char:EOLhyphen"/>nued in every Congregation throughout his Maj. Realmes and Dominions; deſiring, that he may have a legal tryall, and that Hee may not be degraded of his Titles and Honours: Concerning which, be pleaſed to peruſe this enſuing Letter from <hi>Holland,</hi> touching the degrading of his Majeſty.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>
+                     <hi>Sir;</hi> We are here in a kind of amazement, to hear that your <hi>King</hi> ſhould be deſigned for the grave before his time: Be<g ref="char:EOLhyphen"/>lieve it, there's nothing more characterizes men wiſe in the opinion of the wiſeſt meer man, then that they ſee a far off, not the plague of the body only, though that, but judgments ſomtimes for evildoing, ſomtimes for acting indiſcreetly in matters that may be done. That which may lawfully bee done, it may be abſurd to do at ſome time: The taking away life, which is that prized above all, by him that all account wiſe, is not juſt (ſay ſome) at any time, unleſſe there be a law that makes the thing done death, and death to him that doth it: The ſupream power of <hi>England</hi> that forbids any to judge of treaſon in a conſtructive way, but themſelvs have retaind in themſelvs a power to judge ſuch and ſuch practiſes and endeavours to amount to treaſon or death. In particular,
+<pb n="3" facs="tcp:164851:3"/>
+ſupoſe there were law, or it were in the power of the Lords and Commons to take awoy the life of the preſent King, yet if <hi>England, Scotland,</hi> and <hi>Ireland</hi> ſhal be made more miſera<g ref="char:EOLhyphen"/>ble thereby in reaſon, and the waas renewed, to the probable ruine of the Nations, and chiefly to thoſe who pretend moſt to piety and juſtice therein, it were better not. That it's dan<g ref="char:EOLhyphen"/>gerous this may be ſaid: If you cut off, you muſt ſet up, va<g ref="char:EOLhyphen"/>cuities of that nature ſuddainly introduce confuſion: If you ſet up, it muſt either be a new <hi>King,</hi> or a new <hi>Government;</hi> if a new <hi>King,</hi> then the next of kinne, and if him, then let his complyance be what it will, his Fathers death cannot bee forgot; no, the danger of his mothers influence, who will re<g ref="char:EOLhyphen"/>main in baniſhment, be eaſily got over, refuſe he to come in, as it's moſt like, he hath the afore-named written upon his breſt, beſides his hereditary claim, his marriage, which no m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n that hath a purſe, but will endowry with a daughter, raiſe an army of 20000 to reſtore a ſon in law, and make his daughter Queen of 3 kingdoms, which by reaſon of ſci<g ref="char:EOLhyphen"/>tuation, and inherent accommodations may (well managed) be the ballancing power of <hi>Chriſtendom.</hi> If any other, or a new Government, the objections are the ſame, &amp; all the line &amp; that ſucceſſively are made enemies to boot; beſides hath the Parl. or army yet got ſo much love? are they ſo deep in the hearts of the people, that they can aſſure themſelves the newtrals, or thoſe who have gone farre with them will quieſce? But the anſwer is ready, <hi>we have an Army that can<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t be overcome, neither by what can riſe here, or come from a<g ref="char:EOLhyphen"/>broad.</hi> So had <hi>Alexander,</hi> but <hi>Alexander</hi> was poyſoned, and what then became of his Army? ruin approached. Some w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> boaſt they fear no colours, nor danger, for they have the ſwifteſt horſe in the <hi>Kingdom;</hi> but what if that horſe ſtum<g ref="char:EOLhyphen"/>ble, and throw his Rider: where's the man, the horſe wande<g ref="char:EOLhyphen"/>ring up and down, as the fed Hauk for food, comes to the hand of a child?</p>
+                  <closer>
+                     <dateline>
+                        <hi>Amſterdam</hi> 
+                        <date>1 Jan. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <div type="part">
+               <pb n="4" facs="tcp:164851:4"/>
+               <head>Englands Admiration concerning the King.</head>
+               <p>HIs Excellency, and the General Councell of the Army have fully reſolved upon their debates, touching the tryal of the King, and are reſolved to bring him to a preſent tryal, the manner of it is as followeth, <hi>viz.</hi> 6 Lords, forty Commons, and ten Colonels, Lieutenant colonels, and Ma<g ref="char:EOLhyphen"/>jors, who are to receive Inſtructions (as Commiſſioners) Ior managing and proſecuting of the Bills of Attainder and Impeachment againſt the perſon of the King; and are reſol<g ref="char:EOLhyphen"/>ved to eſtabliſh and confirme a true and laſting Govern<g ref="char:EOLhyphen"/>ment within this Kingdome, and that the beſt they can ima<g ref="char:EOLhyphen"/>gine for a Common-wealth, which containeth theſe parti<g ref="char:EOLhyphen"/>culars, <hi>viz.</hi>
+               </p>
+               <p n="1">1 The Magiſtrate to have power in things civill and na<g ref="char:EOLhyphen"/>turall. 2 The Subject to be free, ſubmitting to the Civill Lawes. 3 No toleration for Popery nor Prelacy. 4 None to be forced to fight in War againſt their will, &amp;c.</p>
+               <p>And the Generall Councell have further reſolved and de<g ref="char:EOLhyphen"/>clared, That the Parliament ſhall not proceed againſt any perſons to give Judgment, but according to what is Law, Raſon, and Equity.</p>
+               <p>And for the better facilitating and eſtabliſhing of a true and laſting peace within this Nation, the Generall Councel of the Army have paſſed the remaining part of the Articles for an Agreement of the People, and are determined ſpeedi<g ref="char:EOLhyphen"/>ly to conſider of a forme of concluſion and ſubſcription to this Agreement as to the Officers of the Army.</p>
+               <p>Summons are alſo ſent to the Prince of <hi>Wales,</hi> and the Duke of <hi>York,</hi> to require their preſent appearance, and to de<g ref="char:EOLhyphen"/>ſiſt from their Engagement, in acting againſt this Kingdom, and involving their place of Nativity in another bloudy and inteſtine War, and a day is prefixed, for their return, that in
+<pb n="5" facs="tcp:164851:4"/>
+caſe they refuſe to yeeld obedience to the ſaid Summons, then to be declared againſt as Enemies to the peace of this Kingdom, and to be degraded of all Titles and Honours, be<g ref="char:EOLhyphen"/>longing to either of them.</p>
+               <p>Yet notwithſtanding, we have one precious Flower and Bloſſome to fix our eyes upon, <hi>viz.</hi> the Duke of Glouce<g ref="char:EOLhyphen"/>ſter, (the Kings youngeſt Son) who in all probability, will ſpeedily be advanced to great Honours and Dignities, to the great admiration of the whole Kingdom.</p>
+               <p>Yeſterday the Committee reported the Ordinance of At<g ref="char:EOLhyphen"/>tainder againſt <hi>Charles Stuart,</hi> and the names of ſuch Com<g ref="char:EOLhyphen"/>miſſioners as ſhould try him, which are, the Earl of <hi>Den<g ref="char:EOLhyphen"/>bigh,</hi> Earl of <hi>Pembroke,</hi> E. of <hi>Kent,</hi> E of <hi>Mulgrave,</hi> E. of <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> and Lord <hi>Grey</hi> of <hi>Wark.</hi>
+               </p>
+               <p>Of the Houſe of Commons, the Lord <hi>Munſon,</hi> L. <hi>Liſle,</hi> L. <hi>Grey</hi> of <hi>Groby,</hi> Lieu. Gen. <hi>Crumwell,</hi> M. G. <hi>Skippon,</hi> Com. Gen: <hi>Ireton,</hi> Sir <hi>Henry Mildmay,</hi> Sir <hi>Iohn Danvers,</hi> Col. <hi>Walton,</hi> Col: <hi>Moor,</hi> Col: <hi>Boſwell,</hi> Col: <hi>Roſſiter,</hi> Col: <hi>Ven,</hi> Col: <hi>Thorney,</hi> Col: <hi>Laſsels,</hi> and about 30 Members more.</p>
+               <p>Of the Army that are not members of the Houſe of <hi>Com<g ref="char:EOLhyphen"/>mons,</hi> the L. Gen. <hi>Pairfax,</hi> Col: <hi>Whalley,</hi> Col: <hi>Rich,</hi> Col: <hi>VVal<g ref="char:EOLhyphen"/>ler,</hi> Col: <hi>Tomlinſon,</hi> col: <hi>Scroop,</hi> Col: <hi>Sanders,</hi> Col: <hi>Pride,</hi> col: <hi>Twiſleton</hi> Col: <hi>Huſon,</hi> Col: <hi>Barkstead,</hi> Col: <hi>Horton,</hi> Col: <hi>Deſ<g ref="char:EOLhyphen"/>borough,</hi> Col: <hi>Dean,</hi> and Col: <hi>Okey.</hi>
+               </p>
+               <p>Of the City of <hi>London,</hi> Alderman <hi>Pennington,</hi> Alderman <hi>VVoollaston,</hi> Ald: <hi>Fooks,</hi> Ald: <hi>Gibbs,</hi> and Alderman <hi>Andrews.</hi>
+               </p>
+               <p>The Judges are, the Lord chief Juſtice <hi>Rolls,</hi> chief Juſtice of <hi>England,</hi> Juſtice St. <hi>Iohn,</hi> Lord chief Juſtice of the Com<g ref="char:EOLhyphen"/>mon-pleas, and Lord chief Baron <hi>VVild.</hi> And two out of all the 40 Counties throughout the Kingdom, all which com<g ref="char:EOLhyphen"/>miſſioners, who are to ſit as a Jury, are to conſiſt of 150,
+<pb n="6" facs="tcp:164851:5"/>
+and any 20 of them are to be a Committee for tryall of the King, and to give ſentence againſt him. By this Ordinance the Commiſſioners are limited to a moneths time, to make a finall determination of the buſineſſe, the place of tryall is ſaid to be at Weſtminſter.</p>
+               <p>
+                  <hi>VVestmin.</hi> 3 inſtant, Here arrived a meſſenger from the Queen of <hi>England,</hi> with a Letter to the Parl. purporting her deſires, for a ſpeedy reſtauration of her dread Soveraigne Lord the <hi>King,</hi> and that He may be admitted to his Throne; and to enjoy his juſt Rights, Priviledges, and Dignities: But the Houſe not liking the Title of the ſaid Letter, reſolved to lay it aſide. Letters from Windſor ſay, that the <hi>King</hi> diſ<g ref="char:EOLhyphen"/>courſes much upon ſubjects, purporting a life of many days there, and doubts not but within 6 moneths to ſee peace in <hi>England,</hi> and in caſe of non-reſtoring, to be righted from <hi>Denmark, France, Scotland,</hi> and <hi>Ireland:</hi> He talketh much of Lieu G. <hi>Crumwell,</hi> and ſaith, <hi>That he hopeth to ſee good things wrought by them.</hi>
+               </p>
+               <p>The Ordinance for tryal of the <hi>King,</hi> was tranſmitted from the Lords to the Commons, for their concurrence who had in conſideration, firſt, whether a houſe, in a Parliamentary way, 2 wnether being ſo few, they ſhould take into conſide<g ref="char:EOLhyphen"/>ration ſo great a buſineſſe. 3 As to matter of treaſon, ſome thought that the <hi>King</hi> could not commit treaſon againſt the Parl. At laſt they agreed as to a preſent anſwer to the Com<g ref="char:EOLhyphen"/>mons, that they would ſend it by meſſengers of their owne, and laying the buſines aſide, adjorn'd to the 11 inſtant.</p>
+               <p>Whereupon, the Commons underſtanding how unani<g ref="char:EOLhyphen"/>mouſly the Lords had gone againſt the Commiſſion for tri<g ref="char:EOLhyphen"/>all of the <hi>King,</hi> agreed to proceed of themſelvs, and for that end have committed the ſame for alteration.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
